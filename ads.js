@@ -3,13 +3,13 @@ function randomG(min, max) {
 }
 
 const adtextid = [
-	""
+	"test"
 ]
 const adimgid = [
-	""
+	"test"
 ]
 const adlinkid = [
-	""
+	"test"
 ]
 
 let adid = randomG(0,0);
